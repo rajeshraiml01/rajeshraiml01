@@ -25,8 +25,6 @@ I'm a passionate software developer and tech enthusiast who loves to explore new
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/rajeshraiml01)
-- [Twitter](https://twitter.com/rajeshraiml01)
-- [Personal Website](https://www.rajeshraiml01.com)
+- [LinkedIn](https://www.linkedin.com/in/rajesh-r-821b1649/)
 
 Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
