@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Rajesh R! 👋
 
-<!--
-**rajeshraiml01/rajeshraiml01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software developer and tech enthusiast who loves to explore new technologies and build innovative solutions. Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning advanced web development and cloud computing.
+- 👯 I’m looking to collaborate on open-source projects and hackathons.
+- 💬 Ask me about web development, cloud technologies, and software engineering.
+- 📫 How to reach me: [rajeshraiml01@gmail.com](mailto:rajeshraiml@gmail.com)
+- ⚡ Fun fact: I love playing chess and reading sci-fi novels.
+
+## 🛠 Technologies & Tools
+
+- Programming Languages: JavaScript, Python, Java, C++
+- Web Development: HTML, CSS, React, Node.js, Express.js
+- Databases: MongoDB, MySQL, PostgreSQL
+- Cloud Platforms: AWS, Azure, Google Cloud Platform
+- DevOps: Docker, Kubernetes, Jenkins, GitHub Actions
+- Others: Git, Linux, REST APIs, GraphQL
+
+## 📈 GitHub Stats
+
+![Rajesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajeshraiml01&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/rajeshraiml01)
+- [Twitter](https://twitter.com/rajeshraiml01)
+- [Personal Website](https://www.rajeshraiml01.com)
+
+Thank you for visiting my profile! Feel free to explore my repositories and get in touch if you'd like to collaborate or have any questions.
