@@ -7,7 +7,7 @@ I'm a passionate software developer and tech enthusiast who loves to explore new
 - 🌱 I’m currently learning advanced web development and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects and hackathons.
 - 💬 Ask me about web development, cloud technologies, and software engineering.
-- 📫 How to reach me: [rajeshraiml01@gmail.com](mailto:rajeshraiml@gmail.com)
+- 📫 How to reach me: [rajeshraiml@gmail.com](mailto:rajeshraiml@gmail.com)
 - ⚡ Fun fact: I love playing chess and reading sci-fi novels.
 
 ## 🛠 Technologies & Tools
